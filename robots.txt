@@ -1,0 +1,5 @@
+# Cela Auto Sales - public website. Everything here is meant for customers.
+User-agent: *
+Allow: /
+
+Sitemap: https://celaautosales.com/sitemap.xml
